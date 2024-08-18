@@ -11,5 +11,8 @@
     "sofidev"
   ],
   "author": "sofidev sofi.dev@outlook.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
