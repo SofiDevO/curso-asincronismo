@@ -4,7 +4,7 @@
   "description": "Curso de asincronismo con javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "keywords": [
     "javascript",
@@ -13,6 +13,8 @@
   "author": "sofidev sofi.dev@outlook.com",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
